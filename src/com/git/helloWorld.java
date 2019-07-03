@@ -2,7 +2,7 @@ package com.git;
 
 public class helloWorld {
 	public static void main(String[] args) {
-		System.out.println("ÎÈ¶¨Èô·Ç");
+		System.out.println("åœ£è¯å¡æ±Ÿæˆ·æ—¶ä»£");
 	}
 
 }
